@@ -1,4 +1,4 @@
-<h1>Challenge 02: Portafolio</h1>
+<h1>Challenge 02: Mi Portafolio</h1>
 
 - Estado del proyecto: Finalizado
 
