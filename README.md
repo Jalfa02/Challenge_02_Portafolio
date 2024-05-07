@@ -1,5 +1,5 @@
 <h1>Challenge 02: Portafolio</h1>
 
-- Estado del proyecto: Pausado
+- Estado del proyecto: Finalizado
 
 - #challengeone
