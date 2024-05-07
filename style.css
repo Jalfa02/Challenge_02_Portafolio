@@ -40,7 +40,7 @@ Enlace de la documentación oficial!
 https://en.bem.info/methodology/quick-start/*/
 
 .tudo{
-    background: #F5F5F5;
+    background: #def7ff;
 }
 
 /*Sección Menu*/
@@ -187,7 +187,7 @@ section.title{
 section.about{
     width: 1,440px;
     height: 380px;
-    background-color: #EAF2FD;
+    background-color: #f1f0f0;
     padding: 70px 25% 70px 25%; /*Medidas del padding de esta seccion y por ende todo se rije*/
     gap: 10px;
 }
@@ -381,7 +381,7 @@ section.academic{
     padding: 20px 0px 0px 0px;
     gap: 32px;
     opacity: 0px;
-    background-color: #EAF2FD;
+    background-color: #f1f0f0;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -624,7 +624,7 @@ section.experience{
 section.formcontato{
     width: 1,440px;
     height: 790px;
-    background-color: #EAF2FD;
+    background-color: #f1f0f0;
     display: flex;
     justify-content: center;
 }
@@ -726,7 +726,7 @@ section.footer{
     width: 1,440px;
     height: 100px;
     gap: 10px;
-    background-color: #FFFFFF;
+    background-color: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -735,7 +735,7 @@ section.footer{
 .footer__rodape{
     width: 229px;
     height: 38px;
-    color: #464646;
+    color: #ffffff;
     font-size: 16px;
     line-height: 18.78px;
     text-align: center;
